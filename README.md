@@ -7,7 +7,7 @@
 ![image](https://github.com/Brodyaga44/Task1/assets/145764043/f684ff0a-41f3-4832-aec4-e30ef2744741)
 
 **Разбор части кода на примере класса BMI**
-'''
+```
 public class BMI {
     private float weight;
     private float height;
@@ -45,7 +45,7 @@ public class BMI {
                 '}';
     }
 }
-'''
+```
 ------------------------
 ## Для работы с ним требуется указать некоторые *параметры*:
 ------------------------
